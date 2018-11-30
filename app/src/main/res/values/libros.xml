@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="libro1">Aventuras Robison Crusoe</string>
+    <string name="libro2">Iliada</string>
+    <string name="libro3">Tres mosqueteros</string>
+    <string name="libro4">La naranja mecanica</string>
+    <string name="libro5">Alicia en el pais de las maravillas</string>
+
+</resources>
